@@ -1,6 +1,6 @@
 
 #-------------------Outros
--
+
   id: 100
   title: "Abertura"
   place: "Auditório"
@@ -22,7 +22,8 @@
   description: "Encerramento."
 -
 
-# ---------------Talks
+# ---------------Talks(começar com o id 200)
+-
   id: 200
   title: "Criando Aplicações Híbridas"
   description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
@@ -32,9 +33,8 @@
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
-# ---------------------Lightning Talks
-  id: 300
+-
+  id: 201
   title: "Criando Aplicações Híbridas"
   description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
   subtype: apresentação
@@ -43,9 +43,74 @@
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
-# ------------------------Workshops
-
+-
+  id: 202
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 203
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-  id: 204
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+# ---------------------Lightning Talks(começar com o id 300)
+-
+  id: 300
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 301
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-  id: 302
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-  id: 303
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+# ------------------------Workshops(começar com o id 400)
+-
   id: 400
   title: "Criando Aplicações Híbridas"
   description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
@@ -55,3 +120,34 @@
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  -
+  id: 401
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  -
+  id: 402
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  -
+  id: 403
+  title: "Criando Aplicações Híbridas"
+  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+  subtype: apresentação
+  speakers: [1]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  -

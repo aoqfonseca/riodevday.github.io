@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Rio DevDay"
 email: "rio.gdg@gmail.com"
-description: "Evento para juntar as comunidades de desenvolvimento do Rio."
+description: "Evento para unir as comunidades de desenvolvimento do Rio."
 baseurl: "/riodevday.github.io"
 url: "gdgrio.org/riodevday"
 permalink: "/blog/:title"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/yD2sEXxqfsssUZLn2"
 # c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- #- {permalink: "/team/", text: "Equipe"}
+ # - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -59,7 +59,7 @@ heroImage: "rio-walp.png"
 logoUnigranrio: "riodevday-logo.png"
 heroTitle: "Rio Dev Day - <typeout>"
 eventDate: "19 de novembro de 2016"
-typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Teckmakers Rio"'
+typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Techmakers Rio"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
@@ -76,8 +76,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "7", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
- - {count: "14", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
+ - {count: "6", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
+ - {count: "13", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
  - {count: "1", specialCharacter: "", info: "dia", detail: "de puro aprendizado"}
 
 # Latest News Block
@@ -92,27 +92,27 @@ rockstarSpeakersButtonText: "Ver todos os palestrantes"
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "Universidade Estácio de Sá campus Nova América"
-eventLocationLink: "#"
+eventLocationLink: "www.estacio.br"
 eventStreetAddress: "Estado do Rio de Janeiro"
 eventAddressLocality: "Estado do Rio de Janeiro"
 eventAddressLocalityRegion: "Rio de Janeiro"
 eventPostalCode: ""
 eventAddressCountry: "Brasil"
 eventStartTime: "2016-11-19T10:00"
-eventDoorTime: "09:00"
+eventDoorTime: "10:00"
 eventEndTime: "2016-11-19T17:00"
-eventPlaceCoordinates: "-22.7891254, -43.3061874"
-mapCenterCoordinates: "-22.7891254, -43.3061874"
-mapMobileCenterCoordinates: "-22.7891254, -43.3061874"
+eventPlaceCoordinates: "-22.8779921,-43.2741317"
+mapCenterCoordinates: "-22.8779921,-43.2741317"
+mapMobileCenterCoordinates: "-22.8779921, -43.2741317"
 
 # Venue Block
 venueBlockTitle: "Auditório"
-venueBigImage: "auditorio.png"
-venueSmallImage1: "bliblioteca.png"
+venueBigImage: "auditorio.jpg"
+venueSmallImage1: "estacio-img.jpg"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "Auditório"
-venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade"]
+venueTitle: "Estacio de Sá"
+venueFeatures: ["Fácil Acesso", "Boa acústica, climatização", "Localizado dentro da Universidade"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -125,7 +125,6 @@ organizersTitle: "Organização"
 partnersTitle: "Parceiros"
 
 partnersC4sponsorsButton: "Seja um patrocinador, entre em contato pelo email rio.gdg@gmail.com"
-
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Fique por dentro!"
@@ -176,15 +175,12 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/114684774037479279638/", icon: "google-plus"}
- - {link: "https://twitter.com/gdgcaxias", icon: "twitter"}
- - {link: "https://www.facebook.com/gdgduquedecaxias/", icon: "facebook"}
+
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "http://www.estacio.br/", text: "Universidade Estácio de Sá"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
 
  -
   title: "Contatos"

@@ -9,43 +9,48 @@
   timeslots:
     - {
         startTime: "10:00",
-        endTime: "10:40",
+        endTime: "10:30",
         sessionIds: [100]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "12:10",
-    	sessionIds: [200,300,400]
+    	startTime: "10:30",
+    	endTime: "11:10",
+    	# sessionIds: [200,400,402]
     }
     - {
-        startTime: "12:20",
-        endTime: "12:50",
-        sessionIds: [200,300,400]
+        startTime: "11:20",
+        endTime: "12:00",
+        # sessionIds: [201,400,402]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "13:50",
+    	startTime: "12:00",
+    	endTime: "13:00",
     	sessionIds: [101]
     }
     - {
+        startTime: "13:10",
+        endTime: "13:50",
+        # sessionIds: [202,401,403]
+    }
+    - {
         startTime: "14:00",
-        endTime: "14:30",
-        sessionIds: [200,300,400]
+        endTime: "14:40",
+        # sessionIds: [203,401,403]
     }
     - {
-        startTime: "14:40",
+        startTime: "14:50",
         endTime: "15:10",
-        sessionIds: [200,300,400]
-    }
-    - {
-        startTime: "15:20",
-        endTime: "15:50",
-        sessionIds: [200,300,400]
+        # sessionIds: [204,300,302]
     }
     
     - {
-        startTime: "15:50",
+        startTime: "15:10",
+        endTime: "15:30",
+         # sessionIds: [204,301,303]
+    }
+
+    - {
+        startTime: "15:40",
         endTime: "16:00",
         sessionIds: [102]
     }
--
